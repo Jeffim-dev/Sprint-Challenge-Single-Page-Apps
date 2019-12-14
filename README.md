@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: it doesn't need to reparse whole process from a server when it clicks its contens to link.
 
 ## Project Set Up
 
